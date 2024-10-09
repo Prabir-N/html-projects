@@ -1,0 +1,260 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@media screen and (min-width: 1601px) { 
+
+
+
+}
+
+@media screen and (max-width: 1440px) { 
+
+
+
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1366px) { 
+
+
+}
+
+@media screen and (max-width: 1280px) { 
+
+
+
+
+
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) { 
+.MenuWrapper { padding:35px 25px 100px 25px;}
+.ItemWrapper .ImgHldr { height:210px;}
+.TestimoniPnl .owl-prev { left:-100px;}
+.TestimoniPnl .owl-next { right:-100px;}
+.MenuList li .ItemWrapper { min-height:430px;}
+
+
+}
+
+
+@media screen and (min-width: 768px) and (max-width:991px) { 
+.navbar-toggle { outline:none !important; margin:3px 0 0 10px; box-shadow:none !important; }
+.navbar-toggle .icon-bar { width:30px; height:4px; background:#fff;  }
+.logo { float:left; }
+.menu-button .touch-button { display:none !important;}
+.navbar-header { }
+.navbar-collapse.collapse { display:none !important;}
+
+
+.banner { height:500px;}
+.bnr-container h1 { font:900 40px/50px 'Muli', sans-serif;}
+.MenuWrapper { padding:25px 15px 90px 15px; min-height:390px;}
+.MenuWrapper .imgDiv { width:85px; height:85px;}
+.MenuWrapper .textDiv h2 { font:700 18px/24px 'Muli', sans-serif;}
+.MenuWrapper .textDiv p { font:400 16px/23px 'Muli', sans-serif;}
+.MenuWrapper .BtnDiv { padding-bottom:25px;}
+.CmnPnl { padding:35px 0;}
+.CmnPnl h1 { font:700 32px/39px 'Muli', sans-serif;}
+.CmnPnl p { font:400 16px/22px 'Muli', sans-serif;}
+.FavSlider { margin-top:20px;}
+.ItemWrapper .ImgHldr { height:220px;}
+.ItemWrapper .TxtHldr { padding:10px 0;}
+.ItemWrapper .TxtHldr h3 { font:700 18px/24px 'Muli', sans-serif;}
+.ItemWrapper .TxtHldr p { font:400 16px/22px 'Muli', sans-serif;}
+.FavouritePnl .owl-prev { left:-20px;}
+.FavouritePnl .owl-next { right:-20px;}
+.LftTxtHldr .RedDiv { padding:25px;}
+.LftTxtHldr .RedDiv h1 { font:700 25px/32px 'Muli', sans-serif;}
+.LftTxtHldr .RedDiv p { font:400 16px/22px 'Muli', sans-serif;}
+.WhiteBox p { font:400 16px/22px 'Muli', sans-serif;}
+.TestimoniPnl .owl-theme .owl-nav { margin:25px 0 0 0;}
+.TestimoniPnl .owl-next, .TestimoniPnl .owl-prev { position:static;}
+.upper-footer { padding:35px 0; text-align:center;}
+.FtrLogo { float:none; display:inline-block; margin-bottom:25px;}
+.upper-footer p { font-size:14px;}
+.lower-footer { padding:35px 0;}
+.QckLnks li { width:100%; padding:0; margin:0 0 5px 0; font-size:14px;}
+.bottom-footer { text-align:center; padding:20px 0;}
+.FtrNav li { font-size:14px;}
+.MenuList { margin:15px 0;}
+.MenuList li .ItemWrapper { min-height:400px;}
+.pagination { margin:0 0 15px 0;}
+.ContactBnr .bnr-container h1 { font:700 32px/39px 'Muli', sans-serif;}
+.Form-And-Adrs-Wrapper { padding-bottom:65px;}
+.FormDiv { width:60%; padding:25px;}
+.AdrsDiv { width:40%; padding:25px;}
+.FormDiv ul { margin:10px 0 0 0;}
+.FormDiv ul li { width:100%; margin:0 0 15px 0;}
+.FormDiv ul li label { margin-bottom:7px;}
+.FormDiv ul li.full { margin:0 0 15px 0;}
+.AdrsDiv .FtrNav { margin:10px 0 0 0;}
+.Pannel { padding:25px 15px;}
+.Pannel h1 { margin-bottom:15px;}
+.ChkoutFrm li { width:100%; margin-bottom:15px;}
+.ChkoutFrm li.fullWidth { margin-bottom:15px;}
+.ChkoutFrm li label { margin-bottom:7px;}
+.ChkoutFrm li h2 { margin-top:15px;}
+
+
+
+
+
+}
+
+
+
+@media screen and (max-width:767px) { 
+.LoginBtn { min-width:0; padding:0 10px;}
+.SignupBtn { min-width:0; padding:0 10px;}
+.navbar-toggle { outline:none !important; margin:3px 0 0 10px; box-shadow:none !important; padding:9px 0; }
+.navbar-toggle .icon-bar { width:25px; height:4px; background:#fff;  }
+.logo { float:left; }
+.menu-button .touch-button { display:none !important;}
+.navbar-header { }
+.navbar-collapse.collapse { display:none !important;}
+
+
+.banner { height:400px;}
+.bnr-container h1 { font:900 28px/38px 'Muli', sans-serif; margin-bottom:20px;}
+.DiscoverPnl { text-align:center;}
+.DiscoverMenu { float:none; display:inline-block; max-width:350px;}
+.DiscoverMenu li { margin-bottom:25px;}
+.MenuWrapper { padding:25px 20px 90px 20px; min-height:0;}
+.MenuWrapper .imgDiv { width:85px; height:85px;}
+.MenuWrapper .textDiv h2 { font:700 17px/24px 'Muli', sans-serif;}
+.MenuWrapper .textDiv p { font:400 14px/21px 'Muli', sans-serif;}
+.MenuWrapper .BtnDiv { padding-bottom:25px;}
+.CmnPnl { padding:35px 0;}
+.CmnPnl h1 { font:700 23px/30px 'Muli', sans-serif;}
+.CmnPnl p { font:400 14px/20px 'Muli', sans-serif;}
+.FavSlider { margin-top:20px; float:none; display:inline-block !important; max-width:350px;}
+.ItemWrapper .ImgHldr { height:250px;}
+.ItemWrapper .TxtHldr { padding:10px 0; text-align:center;}
+.ItemWrapper .TxtHldr h3 { font:700 17px/24px 'Muli', sans-serif;}
+.ItemWrapper .TxtHldr p { font:400 14px/20px 'Muli', sans-serif;}
+.FavouritePnl .owl-theme .owl-nav { margin-top:20px;}
+.FavouritePnl .owl-next, .FavouritePnl .owl-prev { position:static; width:40px; height:40px;}
+.FavouritePnl .owl-prev { left:-20px;}
+.FavouritePnl .owl-next { right:-20px;}
+.CateringPnl .PnlWrapper { padding-top:50px;}
+.LftImgHldr { width:100%; max-height:275px;}
+.LftTxtHldr { width:100%; padding:0;}
+.LftTxtHldr .RedDiv { padding:25px;}
+.LftTxtHldr .RedDiv h1 { font:700 20px/27px 'Muli', sans-serif;}
+.LftTxtHldr .RedDiv p { font:400 14px/20px 'Muli', sans-serif;}
+.WhiteBox { padding:0px 35px 35px 35px;}
+.WhiteBox p { font:400 14px/20px 'Muli', sans-serif;}
+.TestimoniList { margin-top:20px;}
+.TestimoniPnl .owl-theme .owl-nav { margin:25px 0 0 0;}
+.TestimoniPnl .owl-next, .TestimoniPnl .owl-prev { position:static; width:40px; height:40px;}
+.upper-footer { padding:35px 0; text-align:center;}
+.FtrLogo { float:none; display:inline-block; margin-bottom:25px;}
+.upper-footer p { font-size:14px;}
+.lower-footer { padding:20px 0; text-align:center;}
+.lower-footer h2 { font:700 15px/22px 'Muli', sans-serif;}
+.QckLnks { margin-bottom:25px;}
+.QckLnks li { width:100%; padding:0; margin:0 0 5px 0; font-size:13px;}
+.ftrSclLnk { width:auto; float:none; display:inline-block;}
+.bottom-footer { text-align:center; padding:20px 0;}
+.FtrNav { max-width:245px; display:inline-block; float:none; text-align:left; margin-bottom:25px;}
+.FtrNav li { font-size:13px;}
+.MenuList { margin:15px 0; display:inline-block; max-width:350px; float:none;}
+.MenuList li .ItemWrapper { min-height:0;}
+.pagination { margin:0 0 15px 0;}
+.pagination > li { margin-right:5px;}
+.ContactBnr { height:400px;}
+.ContactBnr .bnr-container .BnrTxtWrapper { padding-top:45px;}
+.ContactBnr .bnr-container h1 { font:700 23px/30px 'Muli', sans-serif;}
+.Form-And-Adrs-Wrapper { padding-bottom:65px;}
+.FormDiv { width:100%; padding:25px;}
+.FormDiv h2 { font:700 17px/24px 'Muli', sans-serif;}
+.FormDiv ul li input { font-size:14px !important;}
+.FormDiv ul li textarea { font-size:14px;}
+.AdrsDiv { width:100%; padding:25px;}
+.AdrsDiv h2 { font:700 17px/24px 'Muli', sans-serif;}
+.FormDiv ul { margin:10px 0 0 0;}
+.FormDiv ul li { width:100%; margin:0 0 15px 0;}
+.FormDiv ul li label { margin-bottom:7px;}
+.FormDiv ul li.full { margin:0 0 15px 0;}
+.AdrsDiv .FtrNav { margin:10px 0 0 0;}
+.CheckoutDiv { padding:35px 0;}
+.Pannel { padding:25px 15px; margin-bottom:25px;}
+.Pannel h1 { margin-bottom:15px; font:700 20px/27px 'Muli', serif;}
+.PannelRht { margin-bottom:0;}
+.ChkoutFrm li { width:100%; margin-bottom:15px;}
+.ChkoutFrm li.fullWidth { margin-bottom:15px;}
+.ChkoutFrm li label { margin-bottom:7px;}
+.ChkoutFrm li h2 { margin-top:15px; font-size:17px;}
+.ChkoutFrm li input { font-size:14px !important;}
+
+
+
+}
+
+
+@media screen and (max-width:736px) { 
+
+
+
+
+}
+
+@media screen and (max-width: 667px) { 
+
+
+}
+
+@media screen and (max-width: 640px) { 
+
+
+
+}
+
+
+@media screen and (max-width: 568px) { 
+
+
+}
+
+@media screen and (max-width: 480px) { 
+
+
+
+
+}
+
+
+
+
+@media screen and (max-width: 414px) { 
+.logo { margin:7px 0 0 0;}
+.logo img { max-width:120px;}
+.FtrLogo { max-width:200px;}
+
+
+
+}
+
+
+
+@media screen and (max-width: 375px) { 
+
+
+}
+
+
+
+@media screen and (max-width: 360px) { 
+
+
+}
+
+
+@media screen and (max-width: 320px) { 
+
+
+
+
+}
+
